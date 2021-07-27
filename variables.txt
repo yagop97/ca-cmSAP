@@ -1,0 +1,5 @@
+Variables a agregar a PATH
+
+dir python:
+dir python scripts:
+dir java bin: 
