@@ -1,5 +1,0 @@
-Variables a agregar a PATH
-
-dir python: C:\Users\ypajarino\python
-dir python scripts: C:\Users\ypajarino\python\Scripts
-dir java bin: C:\Users\ypajarino\Downloads\JAVA\bin
