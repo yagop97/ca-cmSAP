@@ -47,6 +47,15 @@ pip install -r requirements.txt
 
 Al dar enter, comienza la descarga e instalación de las librerias necesarias.
 
+## Utilización
+
+1. Descargar de AFIP comprobantes emitidos para el periodo, guadar en la carpeta con el nombre que baja de AFIP.
+2. Guadar los PDF de los comprobantes emitidos en la carpeta DOCS
+3. Guardar el archivo CLIENTES.xlsx con numero de CUIT y codigo de SAP.
+4. Hacer doble click en el archivo app.py
+
+Al finalizar, se guarda el archivo llamado salida.xlsx
+
 ## Contacto
 En caso de dudas, consutas, mejoras 👉 <a href="https://yagopajarino.github.io/repos-contact/?ca-cmSAP" target="_blank">Get in touch</a>
 
