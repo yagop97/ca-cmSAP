@@ -49,7 +49,7 @@ Al dar enter, comienza la descarga e instalación de las librerias necesarias.
 
 ## Utilización
 
-1. Descargar de AFIP comprobantes emitidos para el periodo, guadar en la carpeta con el nombre que baja de AFIP.
+1. Descargar de AFIP comprobantes emitidos para el periodo, guadar en la carpeta con el nombre <b>Mis Comprobantes Emitidos - CUIT 30657864281.xlsx</b>
 2. Guadar los PDF de los comprobantes emitidos en la carpeta DOCS
 3. Guardar el archivo CLIENTES.xlsx con numero de CUIT y codigo de SAP.
 4. Hacer doble click en el archivo app.py
